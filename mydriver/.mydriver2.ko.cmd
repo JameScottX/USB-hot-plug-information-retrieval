@@ -1,0 +1,1 @@
+cmd_/home/jame/Desktop/anzhuo/usb_monitor/mydriver/mydriver2.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/jame/Desktop/anzhuo/usb_monitor/mydriver/mydriver2.ko /home/jame/Desktop/anzhuo/usb_monitor/mydriver/mydriver2.o /home/jame/Desktop/anzhuo/usb_monitor/mydriver/mydriver2.mod.o;  true

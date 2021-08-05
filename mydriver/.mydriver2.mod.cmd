@@ -1,0 +1,1 @@
+cmd_/home/jame/Desktop/anzhuo/usb_monitor/mydriver/mydriver2.mod := { echo  /home/jame/Desktop/anzhuo/usb_monitor/mydriver/mydriver2.o;  echo; } > /home/jame/Desktop/anzhuo/usb_monitor/mydriver/mydriver2.mod
